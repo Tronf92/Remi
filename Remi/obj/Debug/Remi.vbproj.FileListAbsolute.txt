@@ -1,0 +1,10 @@
+c:\users\ady\documents\visual studio 2012\Projects\Remi\Remi\bin\Debug\Remi.exe.config
+c:\users\ady\documents\visual studio 2012\Projects\Remi\Remi\bin\Debug\Remi.exe
+c:\users\ady\documents\visual studio 2012\Projects\Remi\Remi\bin\Debug\Remi.pdb
+c:\users\ady\documents\visual studio 2012\Projects\Remi\Remi\bin\Debug\Remi.xml
+c:\users\ady\documents\visual studio 2012\Projects\Remi\Remi\obj\Debug\Remi.Form1.resources
+c:\users\ady\documents\visual studio 2012\Projects\Remi\Remi\obj\Debug\Remi.Resources.resources
+c:\users\ady\documents\visual studio 2012\Projects\Remi\Remi\obj\Debug\Remi.vbproj.GenerateResource.Cache
+c:\users\ady\documents\visual studio 2012\Projects\Remi\Remi\obj\Debug\Remi.exe
+c:\users\ady\documents\visual studio 2012\Projects\Remi\Remi\obj\Debug\Remi.xml
+c:\users\ady\documents\visual studio 2012\Projects\Remi\Remi\obj\Debug\Remi.pdb
